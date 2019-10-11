@@ -1,8 +1,12 @@
-<template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+<template lang="pug">
+.home
+  img(alt='Vue logo' src='../assets/biohazard.svg' width="125px;")
+  HelloWorld(msg='Reenact Furies')
+  h2 A Vuerified User Interface 
+  vk-button(type="secondary") Imprints
+  vk-button(type="primary") Offprints
+  h3
+    i.fas.fa-chess.fa-5x
 </template>
 
 <script>
@@ -16,3 +20,11 @@ export default {
   }
 }
 </script>
+
+<style>
+
+.home {
+  margin-top: 10vh;
+}
+
+</style>
