@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/reenact-furies/precache-manifest.64996741e36a3bbcea77f9e26eebcdf6.js"
+  "/reenact-furies/precache-manifest.ba35589b5b901ff89daf35447ff68346.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "vuikit-cab-uber"});

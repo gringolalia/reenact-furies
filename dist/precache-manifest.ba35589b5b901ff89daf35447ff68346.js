@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/reenact-furies/img/biohazard.89f0cfd0.svg"
   },
   {
-    "revision": "7db6c90a75f8cb3bac17afa1612cb10c",
+    "revision": "80a00d6bff4be1878ce14f64ac5a3ce3",
     "url": "/reenact-furies/index.html"
   },
   {
