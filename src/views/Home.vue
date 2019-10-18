@@ -24,7 +24,7 @@
       vk-button(type="secondary") Imprints
       vk-button(type="primary") Offprints
       h3
-        i.fas.fa-chess.fa-5x
+        i.fas.fa-chess.fa-5x 
 </template>
 
 <script>

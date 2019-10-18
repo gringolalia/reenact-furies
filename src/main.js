@@ -10,6 +10,7 @@ import './registerServiceWorker'
 
 Vue.use(Vuikit)
 Vue.use(VuikitIcons)
+
 Vue.config.productionTip = false
 
 new Vue({
