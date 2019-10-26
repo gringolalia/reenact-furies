@@ -32,16 +32,12 @@ self.__precacheManifest = [
     "url": "/reenact-furies/robots.txt"
   },
   {
-    "revision": "777d0214e2b505cea3bfd9e651b46fe9",
-    "url": "/reenact-furies/vuikit-0.8.5.zip"
-  },
-  {
     "revision": "63cb184b6518339985b6bbf00929b73c",
     "url": "/reenact-furies/vuikit/vuikit-icons.js"
   },
   {
     "revision": "777d0214e2b505cea3bfd9e651b46fe9",
-    "url": "/reenact-furies/vuikit/vuikit-0.8.5.zip"
+    "url": "/reenact-furies/vuikit-0.8.5.zip"
   },
   {
     "revision": "316c44c1887fc69bb4b6cde7b55ebff6",
@@ -62,5 +58,9 @@ self.__precacheManifest = [
   {
     "revision": "a91c95b3e036d1a603e5e2757a556bee",
     "url": "/reenact-furies/vuikit/vuikit.min.js"
+  },
+  {
+    "revision": "777d0214e2b505cea3bfd9e651b46fe9",
+    "url": "/reenact-furies/vuikit/vuikit-0.8.5.zip"
   }
 ];
