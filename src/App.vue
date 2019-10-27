@@ -5,7 +5,7 @@
       vk-navbar-logo.with.dignity 
         i.fas.fa-sun.fa-2x
         | &nbsp; Engenho Novo LLC
-      vk-navbar-nav
+      vk-navbar-nav.with.dignity
         vk-navbar-nav-item(icon='git-fork' title='Working Forks')
         vk-navbar-nav-item(icon='git-branch' title='Branch Office')
       vk-navbar-item
