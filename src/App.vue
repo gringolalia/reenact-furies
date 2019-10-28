@@ -5,13 +5,13 @@
       vk-navbar-logo.with.dignity 
         i.fas.fa-sun.fa-2x
         | &nbsp; Engenho Novo LLC
-      vk-navbar-nav.with.dignity
-        vk-navbar-nav-item(icon='git-fork' title='Working Forks')
-        vk-navbar-nav-item(icon='git-branch' title='Branch Office')
+      vk-navbar-nav
+        vk-navbar-nav-item.with.dignity(icon='git-fork' title='Working Forks')
+        vk-navbar-nav-item.with.dignity(icon='git-branch' title='Branch Office')
       vk-navbar-item
         form.with.dignity(action='javascript:void(0)')
           input.uk-input.uk-form-width-medium.uk-margin-small-right(type='text' placeholder='Curiosidade')
-          vk-button.vk-button-primary.with.dignity(type="secondary") Enviar
+          vk-button.vk-button-primary.with.dignity(type="default") Enviar
   router-view.
     
     </template>

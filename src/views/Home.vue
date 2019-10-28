@@ -1,6 +1,6 @@
 <template lang="pug">
 .home
-  vk-grid
+  vk-grid.uk-flex-center
     div
       img(alt='Vue logo' src='../assets/biohazard.svg' width="125px;")
       HelloWorld(msg='Reenact Furies')
